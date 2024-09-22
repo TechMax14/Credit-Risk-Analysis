@@ -1,5 +1,4 @@
 # credit-risk-classification
-* HW15
 * See credit_risk_classification.ipynb in the Credit_Risk file
 
   
